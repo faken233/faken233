@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faken233&locale=cn&line_height=33&theme=&langs_count=5&layout=compact"/>
+[![wakatime](https://wakatime.com/badge/user/89cfcf35-002b-4e8b-be71-ed3623432fdb/project/de20c414-958c-4ab5-bc9a-e112269873a8.svg)](https://wakatime.com/badge/user/89cfcf35-002b-4e8b-be71-ed3623432fdb/project/de20c414-958c-4ab5-bc9a-e112269873a8)
